@@ -252,7 +252,7 @@ state_data = [
     "c0912":"-87.5"
   },
   {
-    "state":"MI",
+    "state":"MI-",
     "state_name":"Michigan",
     "y2009":132,
     "y2010":109,
